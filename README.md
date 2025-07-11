@@ -1,6 +1,6 @@
 ## About Me
 
-somewhat decent(?) haxe coder
+somewhat decent(?) haxe and lua coder
 
 i tend to be stupid, so please be patient with me.
 
