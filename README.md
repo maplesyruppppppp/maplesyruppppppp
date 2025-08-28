@@ -1,6 +1,6 @@
 ## About Me
 
-somewhat decent(?) haxe and lua coder
+decent haxe and lua coder
 
 i'm a normally busy person, especially with school and fnf mods. i may not respond to messages quickly!
 
