@@ -1,4 +1,4 @@
-above average haxe coder
+above average haxe & lua coder
 
 worked on various fnf mods! (don't be annoying about asking me to join your fnf mod, please.)
 
