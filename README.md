@@ -1,8 +1,8 @@
-above average haxe & lua coder
+hello
 
-learning gdscript (godot engine)
+coded for various fnf mods! (don't be annoying about asking me to join your fnf mod, please.)
 
-worked on various fnf mods! (don't be annoying about asking me to join your fnf mod, please.)
+![Skills](https://skillicons.dev/icons?i=haxe,lua,python,godot&perline=4)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D7U821IAY6)
 
